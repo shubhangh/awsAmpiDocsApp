@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3d653a900",
+  "policyUUID": "d653a900",
+  "bucketName": "awsampidocsappc506cb1bb841449d8a6c0c217ceb48ab",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
